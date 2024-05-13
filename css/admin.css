@@ -1,0 +1,135 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.wrapper1{
+    padding: 1%;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.wrapper{
+    padding: 1%;
+    width: 80%;
+    margin: 0 auto;
+    text-align: left;
+}
+.text-center{
+    text-align: center;
+}
+.footer{
+    background-color: hotpink;
+    color: white;
+}
+.menu ul{
+  list-style-type: none;
+}
+.menu ul li{
+    display: inline;
+    padding: 1%;
+}
+.menu ul li a{
+    text-decoration: none;
+    font-weight: bold;
+    color:#FF8B81;
+    
+}
+.menu ul li a:hover{
+    color: #FF4757;
+}
+.main-content{
+    margin: 1% 0;
+}
+.btn-primary{
+    background-color: #1E90FF;
+    padding: 1%;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    
+}
+.btn-primary:hover{
+    color: #3742FA;
+}
+
+.btn-secondery{
+    background-color: #5aff1e;
+    padding: 1%;
+    color: rgb(18, 17, 17);
+    text-decoration: none;
+    font-weight: bold;
+    
+}
+.btn-secondery:hover{
+    color: #47fa37;
+}
+.btn-delete{
+    background-color: #ff1e1e;
+    padding: 1%;
+    color: rgb(9, 8, 8);
+    text-decoration: none;
+    font-weight: bold;
+    
+}
+.btn-delete:hover{
+    color: #fa3737;
+}
+
+.menu{
+    border-bottom:1px solid grey ;
+}
+
+.main-content{
+    /*margin: 1% 0;*/
+    background-color: #F1F2F6;
+    padding: 3% 0;
+}
+.col-4{
+    width: 18%;
+    background-color: white;
+    margin: 1%;
+    padding: 2%;
+    float: left;
+
+}
+
+.clearfix{
+    float: none;
+    clear: both;
+}
+
+.tbl-full{
+    width: 100%;
+}
+
+table tr th{
+   border-bottom: 1px solid black; 
+   padding: 1%;
+   text-align: left;
+
+}
+table tr td{
+    padding: 1%;
+}
+.btn-primary{
+    background-color: #1E90FF;
+    padding: 1%;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    
+}
+.btn-primary:hover{
+    color: #3742FA;
+}
+
+.login{
+    width: 30%;
+    border: 1px solid grey;
+    margin: 5% auto;
+    padding: 2%;
+}
+
+
